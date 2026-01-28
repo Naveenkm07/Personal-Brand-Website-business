@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#f43f5e" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#07070a"/>
+  <rect x="40" y="40" width="1120" height="550" rx="48" fill="url(#bg)"/>
+  <g fill="#e5e7eb" font-family="ui-sans-serif, system-ui">
+    <text x="100" y="240" font-size="56" font-weight="700" opacity="0.92">Placeholder Studio</text>
+    <text x="100" y="310" font-size="28" opacity="0.82">Portfolio · Work · Case Studies</text>
+    <text x="100" y="380" font-size="18" opacity="0.7">Open Graph placeholder (og.svg)</text>
+  </g>
+</svg>

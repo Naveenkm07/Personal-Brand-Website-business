@@ -1,0 +1,20 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+ [functions]
+   directory = "netlify/functions"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+ [[redirects]]
+   from = "/work/:slug"
+   to = "/case-studies/:slug"
+   status = 301
+
+ [[redirects]]
+   from = "/case-studies/*"
+   to = "/case-studies/:splat"
+   status = 200
+   force = true

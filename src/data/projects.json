@@ -1,0 +1,92 @@
+[
+  {
+    "id": "p01",
+    "title": "Aurora Dashboard",
+    "slug": "aurora-dashboard",
+    "category": "UI/UX",
+    "shortDescription": "A motion-led analytics dashboard concept designed for calm clarity and fast scanning.",
+    "thumbnailImage": "/placeholders/thumb-01.svg",
+    "tags": ["Portfolio", "Visual", "Case Study"],
+    "featured": true
+  },
+  {
+    "id": "p02",
+    "title": "Mono Brand System",
+    "slug": "mono-brand-system",
+    "category": "Branding",
+    "shortDescription": "A typography-first identity kit built to scale from one-page sites to full product suites.",
+    "thumbnailImage": "/placeholders/thumb-02.svg",
+    "tags": ["Portfolio", "Visual", "Case Study"],
+    "featured": true
+  },
+  {
+    "id": "p03",
+    "title": "Lens Portfolio",
+    "slug": "lens-portfolio",
+    "category": "Photography",
+    "shortDescription": "A photo-forward portfolio layout with masonry browsing and quick navigation.",
+    "thumbnailImage": "/placeholders/thumb-03.svg",
+    "tags": ["Portfolio", "Visual", "Case Study"],
+    "featured": true
+  },
+  {
+    "id": "p04",
+    "title": "Neon Landing Page",
+    "slug": "neon-landing",
+    "category": "Web Design",
+    "shortDescription": "A high-contrast landing page exploration focused on hierarchy, rhythm, and conversion clarity.",
+    "thumbnailImage": "/placeholders/thumb-04.svg",
+    "tags": ["Portfolio", "Visual"],
+    "featured": false
+  },
+  {
+    "id": "p05",
+    "title": "Studio Site Refresh",
+    "slug": "studio-site-refresh",
+    "category": "Web Development",
+    "shortDescription": "A fast, accessible marketing site rebuild with content blocks designed for easy iteration.",
+    "thumbnailImage": "/placeholders/thumb-05.svg",
+    "tags": ["Portfolio", "Visual"],
+    "featured": true
+  },
+  {
+    "id": "p06",
+    "title": "Product UI Kit",
+    "slug": "product-ui-kit",
+    "category": "UI/UX",
+    "shortDescription": "A component library concept with consistent spacing, states, and motion guidelines.",
+    "thumbnailImage": "/placeholders/thumb-06.svg",
+    "tags": ["Portfolio", "Visual"],
+    "featured": false
+  },
+  {
+    "id": "p07",
+    "title": "Editorial Web Layouts",
+    "slug": "editorial-web-layouts",
+    "category": "Web Design",
+    "shortDescription": "A set of editorial layout studies emphasizing typography, whitespace, and reading flow.",
+    "thumbnailImage": "/placeholders/thumb-07.svg",
+    "tags": ["Portfolio", "Visual"],
+    "featured": false
+  },
+  {
+    "id": "p08",
+    "title": "Brand Photo Series",
+    "slug": "brand-photo-series",
+    "category": "Photography",
+    "shortDescription": "A small photo series built around texture, light, and repeatable framing.",
+    "thumbnailImage": "/placeholders/thumb-08.svg",
+    "tags": ["Portfolio", "Visual"],
+    "featured": false
+  },
+  {
+    "id": "p09",
+    "title": "UX Audit Snapshot",
+    "slug": "ux-audit-snapshot",
+    "category": "UI/UX",
+    "shortDescription": "A lightweight UX audit template and demo report structure for fast product improvements.",
+    "thumbnailImage": "/placeholders/thumb-09.svg",
+    "tags": ["Portfolio", "Case Study"],
+    "featured": false
+  }
+]
